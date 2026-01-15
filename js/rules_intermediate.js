@@ -1210,5 +1210,9 @@ window.RULES_INTERMEDIATE = {
     "/a1-a2": {
         "url": "https://space.bilibili.com/374366085?spm_id_from=333.788.0.0",
         "expired_at": "2026-01-16T08:06:00.000Z"
+    },
+    "/hdjdidj": {
+        "url": "https://github.com",
+        "expired_at": "2026-01-18T11:06:00.000Z"
     }
 };

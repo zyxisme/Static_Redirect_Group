@@ -2118,5 +2118,9 @@ window.RULES_INTERMEDIATE = {
     "/38b03": {
         "url": "https://x.xx/?d={\"p\": \"a91d3\", \"c\": \"Vv4XE-of12g9GiiYVkwyzOzlilsFLtVrEN2JWwtxaHDr6sgBCaEdaAUcJgWh6oL9KtV0-xWrg3OFXU_1yfykYzNQ6OsGAlPmSMad5_4ZJ0p0TXBy7Bl6xARwdTRuWHAuGspNuO8MNsiIS9gvRzacWv4naWgmXZ1L_SPAAQj2nF3RaB5yelCqg4xFjNmSYyc7MF4IsPL5h3LuR1UFdp3Y7rpCdvEAjIe56T2uug-x3\", \"n\": \"eae22\", \"v\": \"38b03\"}",
         "expired_at": "2026-01-19T01:03:33.000Z"
+    },
+    "/eae22": {
+        "url": "https://x.xx/?d={\"p\": \"38b03\", \"c\": \"aNDz1VQjZwn75VOw1clJzAy-WDLzxVABdRhpjPtoL949_dAsimjHsMxCkKhhtzrUcfJWEQ-K72yZIbt06O2aHwhNzwnbrzxsmmp-FVWbx-ACnncRUIOjvxYUpjFeDKkQF_6n3baXHGrvQpwZScosNnt2zCNyhJ2hCMU47ul8dVRDOVabcwY3XGWzQ4c2dqNZdVSsKgKOlusTUxnc_RGMHO4IXeM-OBJd_269XtBpl\", \"n\": \"d7ead\", \"v\": \"eae22\"}",
+        "expired_at": "2026-01-19T01:03:34.000Z"
     }
 };

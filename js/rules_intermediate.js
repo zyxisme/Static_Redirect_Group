@@ -1454,5 +1454,9 @@ window.RULES_INTERMEDIATE = {
     "/0f569": {
         "url": "https://x.xx/?d=0f569",
         "expired_at": "2026-01-19T00:52:47.000Z"
+    },
+    "/9c61f": {
+        "url": "https://x.xx/?d=9c61f",
+        "expired_at": "2026-01-19T00:52:49.000Z"
     }
 };

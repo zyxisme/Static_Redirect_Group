@@ -2170,5 +2170,9 @@ window.RULES_INTERMEDIATE = {
     "/abfffa": {
         "url": "http://example.com",
         "expired_at": "2026-01-22T12:27:00.000Z"
+    },
+    "/123456anb": {
+        "url": "https://bilibili.com",
+        "expired_at": "2026-01-16T13:04:00.000Z"
     }
 };

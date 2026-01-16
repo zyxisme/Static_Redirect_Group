@@ -2162,5 +2162,9 @@ window.RULES_INTERMEDIATE = {
     "/settingsmd": {
         "url": "https://x.xx/?d=d9613&type=header&filename=\"settings.md\"&validation=\"681679c137054dacbfb1b1cf02e9ff91\"&expire_at=\"2026-01-19T01:03:49.000Z\"",
         "expired_at": "2026-01-20T01:09:00.000Z"
+    },
+    "/b536c": {
+        "url": "https://x.xx/?d=00000b536c923afc1KuKrwaisIY9dygE997H75K8dlk7O17XrXiP7fUfqf9lvrcNdAydGOg7-vHJjyZiNFQaHC9DO68W7YaUFdTJLq0s8TMZSCXN93YVZKGA_D2fUVXiluXprbHI03CkajdD-_BwpMEovcE-7Lojmtp5kjeXJ-UgwWupDQu09nbDDVewFoMYAZRj1gqUqwVk1FSU8uBXUZtaraugW_XD6GEaB8eV29isZIsgtadSYKhoB5B0Y3puJYZ4Bi9tAiGHPZJ-sI4IFWRufl9g",
+        "expired_at": "2026-01-19T01:22:20.000Z"
     }
 };

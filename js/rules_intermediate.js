@@ -2166,5 +2166,9 @@ window.RULES_INTERMEDIATE = {
     "/bingG": {
         "url": "https://bing.com",
         "expired_at": "2026-01-18T05:50:00.000Z"
+    },
+    "/AcoFork": {
+        "url": "https://okzweb.com/login/#",
+        "expired_at": "2026-01-23T07:06:00.000Z"
     }
 };

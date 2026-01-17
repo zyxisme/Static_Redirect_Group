@@ -2154,5 +2154,9 @@ window.RULES_INTERMEDIATE = {
     "/shortt": {
         "url": "https://www.travellings.cn/typewriter.html",
         "expired_at": "2026-01-21T04:57:00.000Z"
+    },
+    "/sb9178": {
+        "url": "https://www.bilibili.com",
+        "expired_at": "2026-01-17T05:38:00.000Z"
     }
 };

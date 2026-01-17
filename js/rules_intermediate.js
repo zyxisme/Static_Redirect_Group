@@ -2146,5 +2146,9 @@ window.RULES_INTERMEDIATE = {
     "/1939u8": {
         "url": "https://blowfish.page/zh-cn/",
         "expired_at": "2026-01-17T05:34:00.000Z"
+    },
+    "/hello": {
+        "url": "https://qinglanm.pages.dev/",
+        "expired_at": "2026-01-24T04:50:00.000Z"
     }
 };

@@ -2158,5 +2158,9 @@ window.RULES_INTERMEDIATE = {
     "/sb9178": {
         "url": "https://www.bilibili.com",
         "expired_at": "2026-01-17T05:38:00.000Z"
+    },
+    "/YouTube": {
+        "url": "https://www.youtube.com",
+        "expired_at": "2026-01-18T05:49:00.000Z"
     }
 };

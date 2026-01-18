@@ -2750,5 +2750,9 @@ window.RULES_INTERMEDIATE = {
     "/beifen": {
         "url": "https://grace153.digitalpress.blog/fang-shi-lian-qing-shou-cang/",
         "expired_at": "2026-01-19T01:34:00.000Z"
+    },
+    "/noiwc": {
+        "url": "https://noiwcdoge.github.io",
+        "expired_at": "2026-01-25T04:43:00.000Z"
     }
 };

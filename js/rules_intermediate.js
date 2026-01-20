@@ -1886,5 +1886,9 @@ window.RULES_INTERMEDIATE = {
     "/lovey": {
         "url": "https://upos-sz-estgcos.bilivideo.com/upgcxcode/04/24/1641702404/1641702404-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&mid=0&uipk=5&trid=9770ee345c264ab0bf84ffe6cc887b4h&oi=665020188&deadline=1768918294&nbs=1&gen=playurlv3&o",
         "expired_at": "2026-01-25T12:14:00.000Z"
+    },
+    "/hxuegfsfs": {
+        "url": "https://d1.qyshare.store/s/TBVWTxUNFQBSKFCVA501FSBgYBGlYFKFCVA50QKFCVA50aKFCVA501IOVBoOKFCVA50wEEGg8CVVMCKFCVA50lYOUQEOKFCVA50hUbFVhERH9YREMVDRVYREQZRk5CWRlYRVKFCVA50VGxVYRER8Uk4VDRVCR1tYVlMYBQcFKFCVA50RgHBhgFBxgKFCVA50KFCVA50KFCVA50EDBlJUKFCVA50RoDDlYKFCVA50GgNWUgYaDwKFCVA50BURoEDgMBBKFCVA505SBVEFV",
+        "expired_at": "2026-01-27T12:43:00.000Z"
     }
 };

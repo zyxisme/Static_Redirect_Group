@@ -1894,5 +1894,9 @@ window.RULES_INTERMEDIATE = {
     "/3552388b": {
         "url": "https://bing.com",
         "expired_at": "2026-01-21T06:50:00.000Z"
+    },
+    "/111121": {
+        "url": "https://baidu.com",
+        "expired_at": "2026-01-21T07:40:00.000Z"
     }
 };

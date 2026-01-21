@@ -1898,5 +1898,9 @@ window.RULES_INTERMEDIATE = {
     "/111121": {
         "url": "https://baidu.com",
         "expired_at": "2026-01-21T07:40:00.000Z"
+    },
+    "/kjnbvbnm": {
+        "url": "https://cv.notaone.cn/",
+        "expired_at": "2026-01-28T10:49:00.000Z"
     }
 };

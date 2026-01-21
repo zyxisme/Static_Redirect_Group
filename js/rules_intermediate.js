@@ -1890,5 +1890,9 @@ window.RULES_INTERMEDIATE = {
     "/baiduu": {
         "url": "https://baidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.com",
         "expired_at": "2026-01-22T13:47:00.000Z"
+    },
+    "/3552388b": {
+        "url": "https://bing.com",
+        "expired_at": "2026-01-21T06:50:00.000Z"
     }
 };

@@ -7378,5 +7378,9 @@ window.RULES_INTERMEDIATE = {
     "/asdasdasd": {
         "url": "https://2x.nz1123121231.com.2x.nz@2x.n@z2x.nz/123abc",
         "expired_at": "2026-01-23T08:18:00.000Z"
+    },
+    "/panx1": {
+        "url": "https://paxn.fun/",
+        "expired_at": "2026-01-23T09:05:00.000Z"
     }
 };

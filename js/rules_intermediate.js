@@ -7362,5 +7362,9 @@ window.RULES_INTERMEDIATE = {
     "/sparks": {
         "url": "https://blog.acofork.com/posts/shorter-url/",
         "expired_at": "2026-01-23T16:33:00.000Z"
+    },
+    "/biminshan": {
+        "url": "https://91zb26.co",
+        "expired_at": "2026-01-30T02:56:00.000Z"
     }
 };

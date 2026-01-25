@@ -8922,5 +8922,9 @@ window.RULES_INTERMEDIATE = {
     "/fgfdx": {
         "url": "http://b6i.cn/2Z0ysq",
         "expired_at": "2026-01-31T01:41:00.000Z"
+    },
+    "/cnm11": {
+        "url": "https://github.com/mainfunx/frpc_android/releases/download/0.39.1.1/frpc_adnroid-v0.39.1.1.apk",
+        "expired_at": "2026-01-25T11:52:00.000Z"
     }
 };

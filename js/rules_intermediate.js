@@ -1167,21 +1167,9 @@ window.RULES_INTERMEDIATE = {
         "url": "https://blog.acofork.com/posts/onedrive-index/",
         "expired_at": ""
     },
-    "/hello": {
-        "url": "https://qinglanm.pages.dev/",
-        "expired_at": "2026-01-24T04:50:00.000Z"
-    },
-    "/ztools": {
-        "url": "https://zhuxiaojt.github.io/tools",
-        "expired_at": "2026-01-24T15:59:00.000Z"
-    },
     "/noiwc": {
         "url": "https://noiwcdoge.github.io",
         "expired_at": "2026-01-25T04:43:00.000Z"
-    },
-    "/class": {
-        "url": "https://hydro.ac/d/A1086/",
-        "expired_at": "2026-01-24T16:00:00.000Z"
     },
     "/karol": {
         "url": "https://www.bilibili.com",
@@ -7331,10 +7319,6 @@ window.RULES_INTERMEDIATE = {
         "url": "https://a.com",
         "expired_at": "2026-01-26T05:20:00.000Z"
     },
-    "/xz001": {
-        "url": "https://c.wss.ink/f/j0mplp7iaqs",
-        "expired_at": "2026-01-24T08:49:00.000Z"
-    },
     "/f2222": {
         "url": "https://lanzou.ly93.cc/inv2s3edxjbe",
         "expired_at": "2026-01-30T09:37:00.000Z"
@@ -7342,10 +7326,6 @@ window.RULES_INTERMEDIATE = {
     "/HGH6GH": {
         "url": "HTTPS://CAYNET.CN",
         "expired_at": "2026-01-30T10:31:00.000Z"
-    },
-    "/yes-gta61": {
-        "url": "http://v.qq.com/x/cover/mzc00200yhu5imt.html",
-        "expired_at": "2026-01-24T12:41:00.000Z"
     },
     "/ztrnb": {
         "url": "https://al-right.top/",
@@ -8926,10 +8906,6 @@ window.RULES_INTERMEDIATE = {
     "/mylink": {
         "url": "https://www.bilibili.com",
         "expired_at": "2026-01-25T13:16:00.000Z"
-    },
-    "/albb1688": {
-        "url": "https://www.1688.com/",
-        "expired_at": "2026-01-24T16:22:00.000Z"
     },
     "/Acofok": {
         "url": "https://q",

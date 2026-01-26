@@ -1167,14 +1167,6 @@ window.RULES_INTERMEDIATE = {
         "url": "https://blog.acofork.com/posts/onedrive-index/",
         "expired_at": ""
     },
-    "/noiwc": {
-        "url": "https://noiwcdoge.github.io",
-        "expired_at": "2026-01-25T04:43:00.000Z"
-    },
-    "/karol": {
-        "url": "https://www.bilibili.com",
-        "expired_at": "2026-01-25T07:37:00.000Z"
-    },
     "/aizhu": {
         "url": "https://hz3.dpdns.org/",
         "expired_at": "2026-01-26T13:25:00.000Z"
@@ -1182,10 +1174,6 @@ window.RULES_INTERMEDIATE = {
     "/potpot123": {
         "url": "https://fuwari-251.pages.dev/",
         "expired_at": "2026-01-27T12:08:00.000Z"
-    },
-    "/lovey": {
-        "url": "https://upos-sz-estgcos.bilivideo.com/upgcxcode/04/24/1641702404/1641702404-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&mid=0&uipk=5&trid=9770ee345c264ab0bf84ffe6cc887b4h&oi=665020188&deadline=1768918294&nbs=1&gen=playurlv3&o",
-        "expired_at": "2026-01-25T12:14:00.000Z"
     },
     "/hxuegfsfs": {
         "url": "https://d1.qyshare.store/s/TBVWTxUNFQBSKFCVA501FSBgYBGlYFKFCVA50QKFCVA50aKFCVA501IOVBoOKFCVA50wEEGg8CVVMCKFCVA50lYOUQEOKFCVA50hUbFVhERH9YREMVDRVYREQZRk5CWRlYRVKFCVA50VGxVYRER8Uk4VDRVCR1tYVlMYBQcFKFCVA50RgHBhgFBxgKFCVA50KFCVA50KFCVA50EDBlJUKFCVA50RoDDlYKFCVA50GgNWUgYaDwKFCVA50BURoEDgMBBKFCVA505SBVEFV",
@@ -7335,10 +7323,6 @@ window.RULES_INTERMEDIATE = {
         "url": "https://1.com",
         "expired_at": "2026-01-27T04:46:00.000Z"
     },
-    "/12aawd56": {
-        "url": "https://bilibili.com",
-        "expired_at": "2026-01-25T05:00:00.000Z"
-    },
     "/77b90e6187": {
         "url": "https://bilibili.com",
         "expired_at": "2026-01-27T04:46:00.000Z"
@@ -8895,17 +8879,9 @@ window.RULES_INTERMEDIATE = {
         "url": "https://www.fctn.cn/",
         "expired_at": "2026-01-30T15:59:00.000Z"
     },
-    "/Jai8273": {
-        "url": "http://o6ey.q9z.pngvupmu.shop/#/f/common?custuuid=2ea34ce4-f7f0-4fc7-9872-6213e4592581",
-        "expired_at": "2026-01-25T12:55:00.000Z"
-    },
     "/Oek938": {
         "url": "http://o6ey.q9z.pngvupmu.shop/#/f/common?custuuid=2ea34ce4-f7f0-4fc7-9872-6213e4592581",
         "expired_at": "2026-01-31T12:55:00.000Z"
-    },
-    "/mylink": {
-        "url": "https://www.bilibili.com",
-        "expired_at": "2026-01-25T13:16:00.000Z"
     },
     "/Acofok": {
         "url": "https://q",
@@ -8922,10 +8898,6 @@ window.RULES_INTERMEDIATE = {
     "/fgfdx": {
         "url": "http://b6i.cn/2Z0ysq",
         "expired_at": "2026-01-31T01:41:00.000Z"
-    },
-    "/cnm11": {
-        "url": "https://github.com/mainfunx/frpc_android/releases/download/0.39.1.1/frpc_adnroid-v0.39.1.1.apk",
-        "expired_at": "2026-01-25T11:52:00.000Z"
     },
     "/114514e2e2": {
         "url": "https://www.bilibili.com/",

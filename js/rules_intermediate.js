@@ -8922,5 +8922,9 @@ window.RULES_INTERMEDIATE = {
     "/hkvip": {
         "url": "https://www.86hk.vip/a?l=YkHcL1i6Cj1Bd7_29",
         "expired_at": "2026-01-30T20:15:00.000Z"
+    },
+    "/baibai": {
+        "url": "https://bing.com",
+        "expired_at": "2026-01-31T18:58:00.000Z"
     }
 };

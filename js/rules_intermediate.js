@@ -8918,5 +8918,9 @@ window.RULES_INTERMEDIATE = {
     "/doodoo": {
         "url": "https://www.bilibili.com/video/BV1vQqHBmEz1?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2206146-vhnjg.1769495814664.973&vd_source=57d53200b112f4716a93ce598c61f3e3",
         "expired_at": "2026-01-29T17:01:00.000Z"
+    },
+    "/dddddd": {
+        "url": "https://www.bilibili.com/video/BV1q2i1BLEJT/?spm_id_from=333.1007.tianma.26-1-99.click&vd_source=848b43ce7f2c93b11ebf7276dea7621c",
+        "expired_at": "2026-01-27T09:50:00.000Z"
     }
 };

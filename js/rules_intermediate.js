@@ -3262,5 +3262,9 @@ window.RULES_INTERMEDIATE = {
     "/66666666": {
         "url": "https://www.bilibili.com/video/BV1q2i1BLEJT/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=c43d0c21006d0837729680aa48130af9",
         "expired_at": "2026-01-28T18:56:00.000Z"
+    },
+    "/ccqxd": {
+        "url": "https://free.kike.cc/QxD",
+        "expired_at": "2026-01-30T08:06:00.000Z"
     }
 };

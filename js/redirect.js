@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (checkUrl.protocol !== 'http:' && checkUrl.protocol !== 'https:') {
             console.error("Blocked potentially unsafe redirect:", finalUrl);
             // 降级到安全页面或显示错误
-            finalUrl = "https://blog.acofork.com/404"; 
+            finalUrl = "https://0sla.de"; 
             if (document.getElementById('url-display')) {
                 document.getElementById('url-display').textContent = "Blocked unsafe URL";
             }

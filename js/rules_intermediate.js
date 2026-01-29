@@ -2510,5 +2510,9 @@ window.RULES_INTERMEDIATE = {
     "/tester": {
         "url": "https://monesy.net",
         "expired_at": "2026-01-29T14:29:00.000Z"
+    },
+    "/hhhhhhhh": {
+        "url": "https://zyx-blog.top",
+        "expired_at": "2026-01-31T02:15:00.000Z"
     }
 };

@@ -22,5 +22,9 @@ window.RULES_INTERMEDIATE = {
     "/nnnnnnnnk": {
         "url": "https://shuzijumin.com/",
         "expired_at": "2026-01-31T13:05:00.000Z"
+    },
+    "/sakura": {
+        "url": "https://cdn.jsdelivr.net/gh/mocchen/cssmeihua/js/yinghua.js",
+        "expired_at": "2026-01-29T16:01:00.000Z"
     }
 };

@@ -2514,5 +2514,9 @@ window.RULES_INTERMEDIATE = {
     "/hhhhhhhh": {
         "url": "https://zyx-blog.top",
         "expired_at": "2026-01-31T02:15:00.000Z"
+    },
+    "/wtfff": {
+        "url": "https://localhost",
+        "expired_at": "2026-01-30T11:12:00.000Z"
     }
 };

@@ -30,5 +30,9 @@ window.RULES_INTERMEDIATE = {
     "/phonetest": {
         "url": "https://a.a",
         "expired_at": "2026-01-29T14:12:00.000Z"
+    },
+    "/teleg": {
+        "url": "https://t.me/zyxisme",
+        "expired_at": "2026-01-30T16:08:00.000Z"
     }
 };

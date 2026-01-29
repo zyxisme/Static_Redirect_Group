@@ -26,5 +26,9 @@ window.RULES_INTERMEDIATE = {
     "/sakura": {
         "url": "https://cdn.jsdelivr.net/gh/mocchen/cssmeihua/js/yinghua.js",
         "expired_at": "2026-01-29T16:01:00.000Z"
+    },
+    "/phonetest": {
+        "url": "https://a.a",
+        "expired_at": "2026-01-29T14:12:00.000Z"
     }
 };

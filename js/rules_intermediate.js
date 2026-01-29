@@ -18,5 +18,9 @@ window.RULES_INTERMEDIATE = {
     "/post1": {
         "url": "https://www.nodeseek.com/post-600448-1",
         "expired_at": "2026-01-31T12:56:00.000Z"
+    },
+    "/nnnnnnnnk": {
+        "url": "https://shuzijumin.com/",
+        "expired_at": "2026-01-31T13:05:00.000Z"
     }
 };

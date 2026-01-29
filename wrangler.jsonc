@@ -29,7 +29,7 @@
     "traces": {
       "enabled": true
     }
-  }，
+  },
   "placement": {
     "mode": "smart"
   }

@@ -120,16 +120,21 @@ document.addEventListener('DOMContentLoaded', function() {
         // 错误模式
         if (card) card.style.display = 'block';
         if (title) title.textContent = "提示";
-        // 替换掉原本的“您即将访问...”文字
         if (statusText) statusText.textContent = "未找到该短链接";
-        if (urlDisplay) urlDisplay.textContent = "该链接可能已过期、被禁用或输入有误";
+        // 修改后的提示文字
+        if (urlDisplay) urlDisplay.textContent = "该链接可能尚未部署，请1分钟后重试";
         
         if (redirectLink) {
             redirectLink.textContent = "重试";
             redirectLink.classList.add('btn-danger');
             redirectLink.href = "javascript:void(0)";
             redirectLink.onclick = function() {
-                window.location.reload();
+                // 跳转到删除 /no 的路径
+                const currentPath = window.location.pathname;
+                const newPath = currentPath.replace(/^\/no/, '') || '/';
+                const search = window.location.search;
+                const hash = window.location.hash;
+                window.location.href = newPath + search + hash;
             };
         }
     } else if (mode === 'direct') {

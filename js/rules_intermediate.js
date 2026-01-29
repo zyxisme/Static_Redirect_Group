@@ -2518,5 +2518,9 @@ window.RULES_INTERMEDIATE = {
     "/wtfff": {
         "url": "https://localhost",
         "expired_at": "2026-01-30T11:12:00.000Z"
+    },
+    "/shorttest": {
+        "url": "https://stat.0sla.de",
+        "expired_at": "2026-01-30T11:21:00.000Z"
     }
 };

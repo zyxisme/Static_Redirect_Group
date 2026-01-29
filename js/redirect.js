@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function() {
     // 读取配置
     const config = window.REDIRECT_CONFIG || {};
@@ -114,13 +113,17 @@ document.addEventListener('DOMContentLoaded', function() {
     const redirectLink = document.getElementById('redirect-link');
     const card = document.querySelector('.card');
     const title = document.querySelector('h2');
+    const statusText = document.getElementById('status-text');
 
     // 执行逻辑
     if (mode === 'error') {
         // 错误模式
         if (card) card.style.display = 'block';
-        if (title) title.textContent = "未找到该短链接";
-        if (urlDisplay) urlDisplay.textContent = "该链接可能已过期或不存在";
+        if (title) title.textContent = "提示";
+        // 替换掉原本的“您即将访问...”文字
+        if (statusText) statusText.textContent = "未找到该短链接";
+        if (urlDisplay) urlDisplay.textContent = "该链接可能已过期、被禁用或输入有误";
+        
         if (redirectLink) {
             redirectLink.textContent = "重试";
             redirectLink.classList.add('btn-danger');

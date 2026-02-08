@@ -34,5 +34,9 @@ window.RULES_INTERMEDIATE = {
     "/teleg": {
         "url": "https://t.me/zyxisme",
         "expired_at": "2026-01-30T16:08:00.000Z"
+    },
+    "/suhuhttps": {
+        "url": "https://0slha.de",
+        "expired_at": "2026-02-08T13:23:00.000Z"
     }
 };

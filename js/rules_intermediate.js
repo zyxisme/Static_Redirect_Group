@@ -38,5 +38,9 @@ window.RULES_INTERMEDIATE = {
     "/suhuhttps": {
         "url": "https://0slha.de",
         "expired_at": "2026-02-08T13:23:00.000Z"
+    },
+    "/admin": {
+        "url": "https://monesy.net",
+        "expired_at": "2026-03-06T13:51:00.000Z"
     }
 };

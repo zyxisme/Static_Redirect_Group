@@ -42,5 +42,9 @@ window.RULES_INTERMEDIATE = {
     "/admin": {
         "url": "https://monesy.net",
         "expired_at": "2026-03-06T13:51:00.000Z"
+    },
+    "/rtrsdf": {
+        "url": "https://www.youtube.com/watch?v=Dbax2ZIsNW0",
+        "expired_at": "2026-03-22T08:57:00.000Z"
     }
 };

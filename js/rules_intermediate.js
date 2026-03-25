@@ -46,5 +46,9 @@ window.RULES_INTERMEDIATE = {
     "/rtrsdf": {
         "url": "https://www.youtube.com/watch?v=Dbax2ZIsNW0",
         "expired_at": "2026-03-22T08:57:00.000Z"
+    },
+    "/bbbbbb": {
+        "url": "https://warden.zyx-blog.top/#/send/zUaHiArERx6r3UTOQeLpFw/JO6CFl05aQJS1mm2n9L5aw",
+        "expired_at": "2026-03-25T05:35:00.000Z"
     }
 };

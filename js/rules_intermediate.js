@@ -50,5 +50,9 @@ window.RULES_INTERMEDIATE = {
     "/bbbbbb": {
         "url": "https://warden.zyx-blog.top/#/send/zUaHiArERx6r3UTOQeLpFw/JO6CFl05aQJS1mm2n9L5aw",
         "expired_at": "2026-03-25T05:35:00.000Z"
+    },
+    "/ibcbu": {
+        "url": "https://vaultwarden.687999.xyz/#/send/qvV74eK8TKWPSmv9PkT2GQ/9KujNHt8LNDHGPHh5IKfUw",
+        "expired_at": "2026-05-17T13:40:00.000Z"
     }
 };

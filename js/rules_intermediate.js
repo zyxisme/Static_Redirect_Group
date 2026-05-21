@@ -58,5 +58,9 @@ window.RULES_INTERMEDIATE = {
     "/niucew": {
         "url": "https://vaultwarden.687999.xyz/#/send/RpYRA42oSTyePighcqMyoQ/4D2e3B5N7WkfsGgJUBYyWA",
         "expired_at": "2026-05-21T15:59:00.000Z"
+    },
+    "/sdffef": {
+        "url": "https://bing.com",
+        "expired_at": "2026-05-23T12:02:00.000Z"
     }
 };

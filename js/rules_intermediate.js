@@ -62,5 +62,9 @@ window.RULES_INTERMEDIATE = {
     "/sdffef": {
         "url": "https://bing.com",
         "expired_at": "2026-05-23T12:02:00.000Z"
+    },
+    "/dsddsd": {
+        "url": "https://newapi.sharedchat.top/",
+        "expired_at": "2026-06-17T14:58:00.000Z"
     }
 };

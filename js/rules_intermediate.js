@@ -66,5 +66,9 @@ window.RULES_INTERMEDIATE = {
     "/dsddsd": {
         "url": "https://newapi.sharedchat.top/",
         "expired_at": "2026-06-17T14:58:00.000Z"
+    },
+    "/nyjss": {
+        "url": "https://www.bilibili.com/",
+        "expired_at": "2026-08-27T12:44:00.000Z"
     }
 };
